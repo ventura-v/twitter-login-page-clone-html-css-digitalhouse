@@ -9,6 +9,6 @@ O deploy do projeto foi feito na Netlify e o resultado final pode ser conferido 
 # Tecnologias utilizadas:
 :small_orange_diamond: HTML5
 
-:small_orange_diamond: CSS3
+:small_blue_diamond: CSS3
 
 # Status: Finalizado :heavy_check_mark:
