@@ -1,6 +1,6 @@
 # Recriando a tela de login do Twiter
 
-Projeto integrante do curso de Programação Front-end Estação Hack, realizado pela Digital House
+Projeto integrante do curso de Programação Front-end Estação Hack from Facebook, realizado pela Digital House
 
 O objetivo do projeto é recriar a página de login do Twitter
 
