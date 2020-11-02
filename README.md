@@ -4,13 +4,13 @@ Projeto integrante do curso de Programação Front-end Estação Hack from Faceb
 
 O objetivo do projeto é recriar a página de login do Twitter
 
-O deploy do projeto foi feito na Netlify e o resultado final pode ser conferido [clicando aqui](https://twitter-login-clone.netlify.app/)
+O deploy do projeto foi feito na Netlify e o resultado final pode ser conferido [clicando aqui](https://twitter-login-clone.netlify.app/) ou no gif abaixo:
 
 [![](pitch.gif)](https://twitter-login-clone.netlify.app/)
 
-# Tecnologias utilizadas:
+## Tecnologias utilizadas:
 :small_orange_diamond: HTML5
 
 :small_blue_diamond: CSS3
 
-# Status: Finalizado :heavy_check_mark:
+## Status: Finalizado :heavy_check_mark:
