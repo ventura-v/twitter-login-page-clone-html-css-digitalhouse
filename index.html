@@ -2,10 +2,10 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Entrar no Twitter / Twitter</title>
-  <link rel="stylesheet" href="./styles/style.css">
+  <link rel="stylesheet" href="./styles/style.css" />
 </head>
 
 <body>
@@ -13,39 +13,47 @@
 
     <!-- Header -->
     <div class="header">
+
+      <!-- Logo -->
       <div class="logo">
-        <img src="./img/twitter-logo.png" alt="">
+        <img id="img-logo" src="./img/twitter-logo.png" />
       </div>
+
+      <!-- Theme switch -->
       <div class="change-theme-container">
-        <a class="change-theme" href="./dark-mode.html"><img src="./img/change-theme-dark.png" alt=""></a>
+        <img id="theme-switcher" class="switch" src="img/theme-light.png" />
       </div>
+
     </div>
 
     <h1>Entrar no Twitter</h1>
 
     <form>
+
       <!-- Login -->
+
+      <!-- User -->
       <div class="username">
         <label for="user">Celular, e-mail ou nome de usuário</label>
-        <br>
+        <br />
         <div class="input-box input-user">
-          <input type="textarea" name="user" id="user">
+          <input type="textarea" name="user" id="user" />
         </div>
       </div>
 
+      <!-- Password -->
       <div class="password">
         <label for="password">Senha</label>
-        <br>
+        <br />
         <div class="input-box input-password">
-          <input type="password" name="password" id="password">
+          <input type="password" name="password" id="password" />
         </div>
       </div>
 
       <!-- Login button -->
       <div class="entrar">
-        <input type="button" name="entrar" id="entrar" value="Entrar">
+        <input type="button" name="entrar" id="entrar" value="Entrar" />
       </div>
-
     </form>
 
     <!-- Footer -->
@@ -54,8 +62,9 @@
       <span class="dot">.</span>
       <a href="#">Inscrever-se no Twitter</a>
     </footer>
-
   </section>
+
+  <script src="./js/script.js"></script>
 </body>
 
 </html>
